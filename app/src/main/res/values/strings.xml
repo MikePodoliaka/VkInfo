@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VkInfo</string>
+    <string name="enter_id_in_vk">Enter ID in VK</string>
+    <string name="search">Search</string>
+    <string name="result_you_see_here">Result you see here</string>
+    <string name="error">Something problem</string>
+</resources>
